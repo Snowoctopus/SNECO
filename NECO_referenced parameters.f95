@@ -1,7 +1,7 @@
 ﻿
 PROGRAM sNECO_ref_para
 
-! This version is for the comparison with CFM
+! This version is for the comparison with Cell flux model (CFM)
 !
 ! Changed processes:
 ! 1. Linear mortality of phytoplankton ---> Quadratic mortality rate
@@ -24,7 +24,7 @@ PROGRAM sNECO_ref_para
  
 ! Changed parameter: knh4p3, kno2p3, kno3p3, Iin, mquad, mlin, fp, pn_max
 
-! This version set the parameters following Table S1 15/10/2025 --Moge
+! This version set the parameters following Table S1 15/10/2025 --Moge Du
 
 ! latest modified by Moge Du Oct/28/2025
 
